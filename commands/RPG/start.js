@@ -126,5 +126,5 @@ if(!rpg_start[message.author.id]) {
 module.exports.help = {
   name: "start",
   description: 'Permet de commencer l\' aventure RPG intégrée de Beebop.',
-  usage: `.start`
+  usage: `b!start`
 }
