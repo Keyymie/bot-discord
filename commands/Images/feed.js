@@ -29,5 +29,7 @@ module.exports.run = async (bot, message,args)  =>{
 }
     
 module.exports.help = {
-    name : 'feed'
+    name : 'feed',
+    usage: 'b!feed',
+    description: "Tu fais manger quelqu'un"  
     }
