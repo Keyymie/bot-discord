@@ -1,6 +1,3 @@
-poluxxx-beebop
-Show
-README.md
 # Beebop<sup>TM</sup>
 ​
 ​
